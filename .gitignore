@@ -1,4 +1,4 @@
-dsets
-net_4.pth
-net_8.pth
-net_16.pth
+data/hymenoptera_data
+network/net_4.pth
+network/net_8.pth
+network/net_16.pth
