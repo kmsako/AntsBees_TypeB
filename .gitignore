@@ -1,4 +1,4 @@
-data/hymenoptera_data
+data/hymenoptera_data/
 network/net_4.pth
 network/net_8.pth
 network/net_16.pth
